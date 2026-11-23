@@ -1,11 +1,20 @@
 {
   "type": "normal",
   "fileName": "profile-green-animate.svg",
-  "backgroundColor": "#ffffff",
+  "backgroundColor": "transparent",
   "foregroundColor": "#00000f",
   "strongColor": "#111133",
   "weakColor": "gray",
   "radarColor": "#47a042",
   "growingAnimation": true,
-  "contribColors": ["#efefef", "#d8e887", "#8cc569", "#47a042", "#1d6a23"]
+  "contribColors": ["#efefef", "#d8e887", "#8cc569", "#47a042", "#1d6a23"],
+  "darkMode": {
+    "type": "normal",
+    "backgroundColor": "transparent",
+    "foregroundColor": "#e6edf3",
+    "strongColor": "#f0f6fc",
+    "weakColor": "#8b949e",
+    "radarColor": "#3fb950",
+    "contribColors": ["#21262d", "#1b7d28", "#24a736", "#2dd143", "#57da69"]
+  }
 }
