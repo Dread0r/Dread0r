@@ -6,7 +6,10 @@
 </a>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dread0r&amp;label=Profile%20views&amp;color=8b5cf6&amp;style=flat-square" alt="Profile views" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Dread0r&amp;label=Profile%20views&amp;color=7c3aed&amp;style=flat-square" />
+    <img src="https://komarev.com/ghpvc/?username=Dread0r&amp;label=Profile%20views&amp;color=6d28d9&amp;style=flat-square" alt="Profile views" />
+  </picture>
 </p>
 
 <h3 align="center">🚀 Founder &amp; CEO of PALDYN</h3>
