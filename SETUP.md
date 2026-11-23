@@ -12,7 +12,7 @@
 
 Snake SVG는 이전 계정명 `enxec`으로 수집한 2026-10-19 스냅샷입니다. 현재 표시 이름은 Dread0r로 바꿨으며, 원본 데이터의 계정명은 출처 기록을 위해 `INITIAL-SNAPSHOT.json`과 `THIRD-PARTY-NOTICES.md`에 보존합니다.
 
-현재 저장소 `Dread0r/Enxec`에는 `.github/workflows/readme-snake.yml`이 없습니다. 자동 갱신을 추가할 경우 기여 데이터 대상은 `Dread0r`, 출력 파일은 `assets/readme-polish/snake-dark.svg`와 `assets/readme-polish/snake-light.svg`로 설정하세요.
+현재 프로필 README 저장소 `Dread0r/Dread0r`에는 `.github/workflows/readme-snake.yml`이 없습니다. 자동 갱신을 추가할 경우 기여 데이터 대상은 `Dread0r`, 출력 파일은 `assets/readme-polish/snake-dark.svg`와 `assets/readme-polish/snake-light.svg`로 설정하세요.
 
 ## 표시와 외부 서비스
 
