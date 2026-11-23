@@ -83,8 +83,8 @@
 ## 📊 GitHub 통계
 
 <p align="center">
-  <a href="https://streak-stats.demolab.com?user=Dread0r&amp;theme=default&amp;hide_border=true&amp;background=00000000#gh-light-mode-only">
-    <img src="https://streak-stats.demolab.com?user=Dread0r&amp;theme=default&amp;hide_border=true&amp;background=00000000" alt="드레더의 GitHub 연속 기여 기록 — 밝은 테마" />
+  <a href="https://streak-stats.demolab.com?user=Dread0r&amp;theme=default&amp;hide_border=true&amp;background=00000000&amp;currStreakLabel=9a6700#gh-light-mode-only">
+    <img src="https://streak-stats.demolab.com?user=Dread0r&amp;theme=default&amp;hide_border=true&amp;background=00000000&amp;currStreakLabel=9a6700" alt="드레더의 GitHub 연속 기여 기록 — 밝은 테마" />
   </a>
   <a href="https://streak-stats.demolab.com?user=Dread0r&amp;theme=tokyonight&amp;hide_border=true&amp;background=00000000#gh-dark-mode-only">
     <img src="https://streak-stats.demolab.com?user=Dread0r&amp;theme=tokyonight&amp;hide_border=true&amp;background=00000000" alt="드레더의 GitHub 연속 기여 기록 — 어두운 테마" />

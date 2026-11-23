@@ -4,8 +4,8 @@
 .fill-bg { fill: transparent; }
 .stroke-bg { stroke: transparent; }
 .fill-strong { fill: #111133; }
-.fill-weak { fill: gray; }
-.stroke-weak { stroke: gray; }
+.fill-weak { fill: #656d76; }
+.stroke-weak { stroke: #656d76; }
 .radar {
 stroke-width: 4px;
 stroke: #47a042;
