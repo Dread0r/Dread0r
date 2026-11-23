@@ -16,8 +16,8 @@
 ## 🤖 AI-Powered Workflow
 
 <p align="center">
-  <img src="./assets/readme-polish/ai-chatgpt.svg" width="150" height="78" alt="ChatGPT" />
   <img src="./assets/readme-polish/ai-claude.svg" width="150" height="78" alt="Claude" />
+  <img src="./assets/readme-polish/ai-chatgpt.svg" width="150" height="78" alt="ChatGPT" />
   <img src="./assets/readme-polish/ai-copilot.svg" width="150" height="78" alt="GitHub Copilot" />
   <img src="./assets/readme-polish/ai-cursor.svg" width="150" height="78" alt="Cursor" />
   <img src="./assets/readme-polish/ai-gemini.svg" width="150" height="78" alt="Gemini" />
@@ -76,7 +76,12 @@
 ## 📊 GitHub 통계
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dread0r&amp;theme=tokyonight&amp;hide_border=true" alt="드레더의 GitHub 연속 기여 기록" />
+  <a href="https://streak-stats.demolab.com?user=Dread0r&amp;theme=default&amp;hide_border=true&amp;background=00000000#gh-light-mode-only">
+    <img src="https://streak-stats.demolab.com?user=Dread0r&amp;theme=default&amp;hide_border=true&amp;background=00000000" alt="드레더의 GitHub 연속 기여 기록 — 밝은 테마" />
+  </a>
+  <a href="https://streak-stats.demolab.com?user=Dread0r&amp;theme=tokyonight&amp;hide_border=true&amp;background=00000000#gh-dark-mode-only">
+    <img src="https://streak-stats.demolab.com?user=Dread0r&amp;theme=tokyonight&amp;hide_border=true&amp;background=00000000" alt="드레더의 GitHub 연속 기여 기록 — 어두운 테마" />
+  </a>
 </p>
 
 ### 3D Contribution City
