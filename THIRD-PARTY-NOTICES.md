@@ -11,7 +11,7 @@ The card layout, outlined labels, and initial Snake-style SVG were adapted for t
 
 Initial contribution data: data/profile.json from the conversation's enxec-profile-insights.zip, dated 2026-10-19. The public GitHub contribution page was checked again on 2026-10-19 and reported the same 5,910 total. No demonstration/random counts were added.
 
-The profile is now named Dread0r (드레더). The original account name `enxec` in INITIAL-SNAPSHOT.json, the source archive name, and the historical contribution URL below are retained as provenance; the contribution snapshot has not been refreshed as part of the rename.
+The profile is now named Dread0r (드레더). The source archive name and historical contribution URL below refer to the original account name `enxec`; the Snake SVGs still use the 2026-10-19 contribution snapshot.
 
 https://github.com/users/enxec/contributions
 https://github.com/Platane/snk
