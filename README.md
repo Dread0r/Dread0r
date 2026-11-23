@@ -1,4 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=230&amp;section=header&amp;text=Dread0r&amp;fontSize=85&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Founder%20of%20PALDYN&amp;descSize=18&amp;descAlignY=72&amp;descAlign=50" alt="드레더 (Dread0r) — Founder of PALDYN" />
+<a href="https://capsule-render.vercel.app/api?type=waving&amp;color=0:e0e7ff,100:ddd6fe&amp;height=230&amp;section=header&amp;text=Dread0r&amp;fontSize=85&amp;fontColor=312e81&amp;animation=fadeIn&amp;desc=Founder%20of%20PALDYN&amp;descSize=18&amp;descAlignY=72&amp;descAlign=50#gh-light-mode-only">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:e0e7ff,100:ddd6fe&amp;height=230&amp;section=header&amp;text=Dread0r&amp;fontSize=85&amp;fontColor=312e81&amp;animation=fadeIn&amp;desc=Founder%20of%20PALDYN&amp;descSize=18&amp;descAlignY=72&amp;descAlign=50" alt="드레더 (Dread0r) — Founder of PALDYN · 밝은 테마" />
+</a>
+<a href="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e1b4b,100:312e81&amp;height=230&amp;section=header&amp;text=Dread0r&amp;fontSize=85&amp;fontColor=eef2ff&amp;animation=fadeIn&amp;desc=Founder%20of%20PALDYN&amp;descSize=18&amp;descAlignY=72&amp;descAlign=50#gh-dark-mode-only">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e1b4b,100:312e81&amp;height=230&amp;section=header&amp;text=Dread0r&amp;fontSize=85&amp;fontColor=eef2ff&amp;animation=fadeIn&amp;desc=Founder%20of%20PALDYN&amp;descSize=18&amp;descAlignY=72&amp;descAlign=50" alt="드레더 (Dread0r) — Founder of PALDYN · 어두운 테마" />
+</a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dread0r&amp;label=Profile%20views&amp;color=8b5cf6&amp;style=flat-square" alt="Profile views" />
