@@ -10,5 +10,5 @@
     "missing_local_images": []
   },
   "svg_count": 31,
-  "workflow_yaml": "parsed; not run on GitHub"
+  "workflow_yaml": "not present in repository"
 }

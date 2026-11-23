@@ -1,7 +1,7 @@
-<img src="./assets/enxec-workspace.png" width="100%" alt="Enxec — 도시의 야경이 보이는 개발 작업실." />
+<img src="./assets/dread0r-workspace.png" width="100%" alt="드레더 (Dread0r) — 도시의 야경이 보이는 개발 작업실." />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=enxec&amp;label=Profile%20views&amp;color=8b5cf6&amp;style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Dread0r&amp;label=Profile%20views&amp;color=8b5cf6&amp;style=flat-square" alt="Profile views" />
 </p>
 
 <h3 align="center">🚀 Founder &amp; CEO of PALDYN</h3>
@@ -76,7 +76,7 @@
 ## 📊 GitHub 통계
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=enxec&amp;theme=tokyonight&amp;hide_border=true" alt="Enxec의 GitHub 연속 기여 기록" />
+  <img src="https://streak-stats.demolab.com?user=Dread0r&amp;theme=tokyonight&amp;hide_border=true" alt="드레더의 GitHub 연속 기여 기록" />
 </p>
 
 ### Contribution Snake
@@ -84,11 +84,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/readme-polish/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/readme-polish/snake-light.svg" />
-  <img src="./assets/readme-polish/snake-light.svg" width="100%" alt="Enxec의 GitHub 기여 잔디를 따라 움직이는 Snake 애니메이션" />
+  <img src="./assets/readme-polish/snake-light.svg" width="100%" alt="드레더의 GitHub 기여 잔디를 따라 움직이는 Snake 애니메이션" />
 </picture>
 
 ---
 
 <p align="center">
-  <sub><b>Enxec</b> &nbsp; / &nbsp; <b>PALDYN</b></sub>
+  <sub><b>Dread0r · 드레더</b> &nbsp; / &nbsp; <b>PALDYN</b></sub>
 </p>

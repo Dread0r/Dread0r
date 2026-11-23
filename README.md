@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=230&amp;section=header&amp;text=Enxec&amp;fontSize=85&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Founder%20of%20PALDYN%20%7C%20%EB%AC%B4%EC%97%87%EC%9D%B4%EB%93%A0%20%EC%8B%A4%ED%96%89%EC%97%90%20%EC%98%AE%EA%B8%B0%EB%8B%A4&amp;descSize=18&amp;descAlignY=72&amp;descAlign=50" alt="Enxec — Founder of PALDYN | 무엇이든 실행에 옮기다" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=230&amp;section=header&amp;text=Dread0r&amp;fontSize=85&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Founder%20of%20PALDYN%20%7C%20%EB%AC%B4%EC%97%87%EC%9D%B4%EB%93%A0%20%EC%8B%A4%ED%96%89%EC%97%90%20%EC%98%AE%EA%B8%B0%EB%8B%A4&amp;descSize=18&amp;descAlignY=72&amp;descAlign=50" alt="드레더 (Dread0r) — Founder of PALDYN | 무엇이든 실행에 옮기다" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=enxec&amp;label=Profile%20views&amp;color=8b5cf6&amp;style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Dread0r&amp;label=Profile%20views&amp;color=8b5cf6&amp;style=flat-square" alt="Profile views" />
 </p>
 
 <h3 align="center">🚀 Founder &amp; CEO of PALDYN</h3>
@@ -76,7 +76,7 @@
 ## 📊 GitHub 통계
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=enxec&amp;theme=tokyonight&amp;hide_border=true" alt="Enxec의 GitHub 연속 기여 기록" />
+  <img src="https://streak-stats.demolab.com?user=Dread0r&amp;theme=tokyonight&amp;hide_border=true" alt="드레더의 GitHub 연속 기여 기록" />
 </p>
 
 ### Contribution Snake
@@ -84,7 +84,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/readme-polish/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/readme-polish/snake-light.svg" />
-  <img src="./assets/readme-polish/snake-light.svg" width="100%" alt="Enxec의 GitHub 기여 잔디를 따라 움직이는 Snake 애니메이션" />
+  <img src="./assets/readme-polish/snake-light.svg" width="100%" alt="드레더의 GitHub 기여 잔디를 따라 움직이는 Snake 애니메이션" />
 </picture>
 
 ---
