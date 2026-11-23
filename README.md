@@ -96,4 +96,9 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" alt="" />
+<a href="https://capsule-render.vercel.app/api?type=waving&amp;color=0:e0e7ff,100:ddd6fe&amp;height=120&amp;section=footer#gh-light-mode-only" aria-hidden="true" tabindex="-1">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:e0e7ff,100:ddd6fe&amp;height=120&amp;section=footer" alt="" />
+</a>
+<a href="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e1b4b,100:312e81&amp;height=120&amp;section=footer#gh-dark-mode-only" aria-hidden="true" tabindex="-1">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e1b4b,100:312e81&amp;height=120&amp;section=footer" alt="" />
+</a>
