@@ -7,11 +7,6 @@ AI brand symbols are from LobeHub lobe-icons, MIT License, copyright (c) 2023 Lo
 Inter letterforms are converted to vector outlines for stable typography. No font file is distributed. Brand and product names belong to their respective owners.
 
 
-The card layout, outlined labels, and initial Snake-style SVG were adapted for this README patch. Some technology icons are category symbols rather than vendor marks. No Snake update workflow is currently included in this repository.
+The card layout and outlined labels were adapted for this README. Some technology icons are category symbols rather than vendor marks.
 
-Initial contribution data: data/profile.json from the conversation's enxec-profile-insights.zip, dated 2026-10-19. The public GitHub contribution page was checked again on 2026-10-19 and reported the same 5,910 total. No demonstration/random counts were added.
-
-The profile is now named Dread0r (드레더). The source archive name and historical contribution URL below refer to the original account name `enxec`; the Snake SVGs still use the 2026-10-19 contribution snapshot.
-
-https://github.com/users/enxec/contributions
-https://github.com/Platane/snk
+The animated 3D contribution city is generated from Dread0r's GitHub contribution data using github-profile-3d-contrib by SATO, Yoshiyuki, MIT License, copyright (c) 2021. Source: https://github.com/yoshi389111/github-profile-3d-contrib. See LICENSE-PROFILE-3D-CONTRIB.txt. The scheduled workflow refreshes the selected green animation daily.

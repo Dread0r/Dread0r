@@ -79,13 +79,11 @@
   <img src="https://streak-stats.demolab.com?user=Dread0r&amp;theme=tokyonight&amp;hide_border=true" alt="드레더의 GitHub 연속 기여 기록" />
 </p>
 
-### Contribution Snake
+### 3D Contribution City
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme-polish/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/readme-polish/snake-light.svg" />
-  <img src="./assets/readme-polish/snake-light.svg" width="100%" alt="드레더의 GitHub 기여 잔디를 따라 움직이는 Snake 애니메이션" />
-</picture>
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="드레더의 GitHub 기여 기록을 입체 도시로 보여주는 3D 애니메이션" />
+</p>
 
 ---
 
